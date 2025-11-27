@@ -218,5 +218,6 @@ a { color:inherit; text-decoration:none; }
 
 .nav-links a.active::after {
   width: 100%;
+  
   background: #1dd0ea;
 }

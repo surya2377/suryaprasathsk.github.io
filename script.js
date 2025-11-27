@@ -15,6 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
       window.scrollTo({ top, behavior: 'smooth' });
     });
   });
+  
 
   const navLinks = Array.from(document.querySelectorAll('.nav-links a'));
   const sections = Array.from(document.querySelectorAll('section'));
